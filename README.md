@@ -1,9 +1,13 @@
 # Git for Powercoders
 
-## Workshop goals and questions
+*Usage:* This is your work sheet. Change it in any way you want (as long as you can answer the goals), 
+add any notes that help you personally to remember tomorrow and also the days after tomorrow.
 
 
-### Getting started
+## My Notes about Git
+
+
+### Creating a repository
 
 **Goal:** I know how to create a local Git repository.
 
@@ -14,7 +18,7 @@ What does Git do to create a local repository?
 * Your answer here
 
 
-### First Commit
+### Saving my changes
 
 **Goal:** I can explain what “workspace”, “staging area”, and “local repository” are.
 
@@ -27,12 +31,12 @@ I want to remember:
 * *(New stuff you learned)*
 
 
-### What has changed?
+### So, what did change?
 
 **Goal:** I know how to show the current (workspace and staged) changes 
 
 
-### Branches
+### Testing stuff on branches
 
 I have the following branches:
 
