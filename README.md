@@ -13,9 +13,7 @@ like Github too, format nicely as HTML.
 
 **Goal:** I know how to create a local Git repository.
 
-How: *(Your answer here)*
-
-What does Git do to create a local repository?
+What does Git do when initialising a local repository?
 
 * Your answer here
 
@@ -25,8 +23,6 @@ What does Git do to create a local repository?
 **Goal:** I can explain what “workspace”, “staging area”, and “local repository” are.
 
 **Goal:** I can explain what a “commit” is.
-
-**Goal:** I know how to find help about a command
 
 I want to remember:
 
@@ -44,6 +40,8 @@ I want to remember:
 
 **Goal:** I understand when branches are used and how they are merged back.
 
+**Goal:** I know how to find help about a command
+
 I have the following branches:
 
 
@@ -51,14 +49,22 @@ I have the following branches:
 
 **Goal:** I am able to resolve merge conflicts.
 
-**Goal:** I know when to rebase before merging.
+**Goal:** I can simplify the history by rebasing.
 
 
 ### Stash and Remote
 
 **Goal:** I know how to temporarily undo my changes.
 
-**Goal:** I can explain what a remote is good for.
+**Goal:** I can push my changes to a remote.
+
+
+### When to commit/branch?
+
+**Goal:** I know when it makes sense to create a commit or a branch.
+
+
+
 
 
 ## Oh vi*!
@@ -68,6 +74,28 @@ I have the following branches:
 Most important commands for me:
 
 * *(Your text here)*
+
+
+
+
+
+## Command line, Git Bash
+
+Show current directory
+
+    pwd
+
+Change to subdirectory and back to parent
+
+    cd subdir
+    cd ..
+
+List files in current directory
+
+    ls -lah
+
+
+
 
 
 ## References
