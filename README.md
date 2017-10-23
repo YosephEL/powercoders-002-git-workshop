@@ -4,7 +4,7 @@
 **add any notes that help you personally** to remember tomorrow and also the days after tomorrow.
 
 This is a [Markdown file](https://daringfireball.net/projects/markdown/syntax) which many servers,
-like Github too, format nicely as HTML.
+like GitHub too, format nicely as HTML.
 
 ## My Notes about Git
 
